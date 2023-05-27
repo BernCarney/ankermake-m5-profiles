@@ -1,2 +1,3 @@
-# ankermake-m5-profiles
-AnkerMake M5 PrusaSlicer Profiles created by The Technical Ace
+# AnkerMake M5 Profiles
+PrusaSlicer and AnkerMake (alpha) Slicer profiles created by The Technical Ace
+
