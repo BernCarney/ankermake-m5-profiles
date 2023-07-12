@@ -14,7 +14,7 @@ PrusaSlicer 2.6+ and AnkerMake (alpha) Slicer profiles created by <a href="https
 </ol>
 
 ## ⚠️ ADVISORIES
-<ul><li>These profiles are <b>ONLY</b> for use with PrusaSlicer 2.6+ or AnkerMake (alpha) Slicer. These profiles are <b>NOT</b> compatible with Cura or any other non-Prusa engine based slicers. As I only utilize PrusaSlicer 2.6.0 beta, I will <b>NOT</b> be establishing profiles for Cura or other slicers unless stated otherwise.</li>
+<ul><li>These profiles are <b>ONLY</b> for use with PrusaSlicer 2.6+ or AnkerMake (alpha) Slicer. These profiles are <b>NOT</b> compatible with Cura or any other non-Prusa engine based slicers. As I only utilize PrusaSlicer, I will <b>NOT</b> be establishing profiles for Cura or other slicers unless stated otherwise.</li>
 <li>If you are a Cura user and would like profiles for your M5 for that slicer, please download and install <a href="https://github.com/Ankermgmt/prusaslicer-ankermake-ce-profiles">Cura 5.1+ AnkerMake M5 Community Profiles</a> developed and maintained by <a href="https://github.com/just-trey">@just-trey</a>.</li><li>While I strive to provide profiles that give you exceptional results, I am in strong belief that there is never <i>universal</i> profiles. Once users become familiar with their printer along with all the different settings possible to change within their slicer, it is strongly encouraged for users to learn and tune their slicer settings to satisfy their needs.</li></ul>
 
 ## 🐞 KNOWN ISSUES
